@@ -4,6 +4,8 @@ Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native 
 
 ## 🚀 How to use
 
+Use JSearch API key from Rapid API in order to fetch data instead of importing from @env
+
 ```sh
 npx create-expo-app -e with-router
 ```
